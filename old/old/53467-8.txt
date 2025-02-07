@@ -1,4 +1,35 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 53467 ***
+The Project Gutenberg EBook of Prejudices, Second Series, by H. L. Mencken
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Prejudices, Second Series
+
+Author: H. L. Mencken
+
+Release Date: November 7, 2016 [EBook #53467]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PREJUDICES, SECOND SERIES ***
+
+
+
+
+Produced by Marc D'Hooghe at Free Literature (online soon
+in an extended version, also linking to free sources for
+education worldwide ... MOOC's, educational materials,...)
+Images generously made available by the Internet Archive.
+
+
+
+
 
 PREJUDICES
 
@@ -200,7 +231,7 @@ people, dwelling in the light and sharing our light." ...
 As I say, the roll of such soothsayers might be almost endlessly
 lengthened. There is, in truth, scarcely a formal discourse upon the
 national letters (forgetting, perhaps, Barrett Wendell's sour threnody
-upon the New England _AufklÃ¤rung)_ that is without some touch of this
+upon the New England _Aufklärung)_ that is without some touch of this
 previsional exultation, this confident hymning of glories to come,
 this fine assurance that American literature, in some future always
 ready to dawn, will burst into so grand a flowering that history will
@@ -300,13 +331,13 @@ I have already quoted him. And finally, to make an end of the prophets,
 there is Brooks, with nine-tenths of his book given over, not to his
 prophecy--it is crowded, indeed, into the last few pages--but to a
 somewhat heavy mourning over the actual scene before him. On the side
-of letters, the Ã¦sthetic side, the side of ideas, we present to the
+of letters, the æsthetic side, the side of ideas, we present to the
 world at large, he says, "the spectacle of a vast, undifferentiated
 herd of good-humored animals"--Knights of Pythias, Presbyterians,
 standard model Ph.D.'s, readers of the _Saturday Evening Post,_
 admirers of Richard Harding Davis and O. Henry, devotees of Hamilton
 Wright Mabie's "white list" of books, members of the Y. M. C. A. or the
-Drama League, weepers at chautauquas, wearers of badges, 100 per cent.
+Drama League, weepers at chautauquas, wearers of badges, 100 per cent,
 patriots, children of God. Poe I pass over; I shall turn to him again
 later on. Nor shall I repeat the parrotings of Emerson and Whitman in
 the jeremiads of their innumerable heirs and assigns. What they all
@@ -352,7 +383,7 @@ equivalent, in the field of letters, of eighteenth century painting and
 German _Augenmusik._
 
 What ails it, intrinsically, is a dearth of intellectual audacity and
-of Ã¦sthetic passion. Running through it, and characterizing the work
+of æsthetic passion. Running through it, and characterizing the work
 of almost every man and woman producing it, there is an unescapable
 suggestion of the old Puritan suspicion of the fine arts as such--of
 the doctrine that they offer fit asylum for good citizens only when
@@ -363,10 +394,10 @@ joy, but to give it a grand and somewhat gaudy sense of virtue. The
 essay is a weapon against the degenerate tendencies of the age. The
 novel, properly conceived, is a means of uplifting the spirit; its aim
 is to inspire, not merely to satisfy the low curiosity of man in man.
-The Puritan, of course, is not entirely devoid of Ã¦sthetic feeling. He
+The Puritan, of course, is not entirely devoid of æsthetic feeling. He
 has a taste for good form; he responds to style; he is even capable
-of something approaching a purely Ã¦sthetic emotion. But he fears this
-Ã¦sthetic emotion as an insinuating distraction from his chief business
+of something approaching a purely æsthetic emotion. But he fears this
+æsthetic emotion as an insinuating distraction from his chief business
 in life: the sober consideration of the all-important problem of
 conduct. Art is a temptation, a seduction, a Lorelei, and the Good
 Man may safely have traffic with it only when it is broken to moral
@@ -380,14 +411,14 @@ rhetoric. He shows, in indiscreet moments, a touch of imagination.
 But all the while he remains a sound Presbyterian, with one eye on
 the devil. He is a Presbyterian first and an artist second, which is
 just as comfortable as trying to be a Presbyterian first and a chorus
-girl second. To such a man it must inevitably appear that a MoliÃ¨re, a
+girl second. To such a man it must inevitably appear that a Molière, a
 Wagner, a Goethe or a Shakespeare was more than a little bawdy.
 
 The criticism that supports this decaying caste of literary Brahmins
 is grounded almost entirely upon ethical criteria. You will spend a
 long while going through the works of such typical professors as More,
 Phelps, Boynton, Burton, Perry, Brownell and Babbitt before ever you
-encounter a purely Ã¦sthetic judgment upon an Ã¦sthetic question. It
+encounter a purely æsthetic judgment upon an æsthetic question. It
 is almost as if a man estimating daffodils should do it in terms of
 artichokes. Phelps' whole body of "we church-goers" criticism--the most
 catholic and tolerant, it may be said in passing, that the faculty can
@@ -401,7 +432,7 @@ Methodist--a member of his local Chamber of Commerce, a contemner of
 Reds, an advocate of democracy and the League of Nations, a patriotic
 dollar-a-year-man during the Armada scare. Elmer More devotes himself,
 year in and year out, to denouncing the Romantic movement, _i. e.,_
-the effort to emancipate the artist from formulÃ¦ and categories, and
+the effort to emancipate the artist from formulæ and categories, and
 so make him free to dance with arms and legs. And Babbitt, to make
 an end, gives over his days and his nights to deploring Rousseau's
 anarchistic abrogation of "the veto power" over the imagination,
@@ -501,7 +532,7 @@ in Chicago, with _Poetry: A Magazine of Verse_ as its Exhibit A; it
 is, in fact, the senior of the Village fornenst Washington Square.
 Others you will find in far-flung factory towns, wherever there is a
 Little Theater, and a couple of local Synges and Chekovs to supply its
-stage. St. Louis, before ZoÃ« Akins took flight, had the busiest of
+stage. St. Louis, before Zoë Akins took flight, had the busiest of
 all these Greenwiches, and the most interesting. What lies under the
 whole movement is the natural revolt of youth against the pedagogical
 Prussianism of the professors. The oppression is extreme, and so the
@@ -534,7 +565,7 @@ furiously upon a pine table in a Macdougal street cellar, his mind
 full of malicious animal magnetism against even so amiable an old
 maid as Howells, and his discourse full of insane hair-splittings
 about _vers libre,_ futurism, spectrism, vorticism, _Expressionismus,
-hÃ©liogabalisme?_ The thing, in truth, is in the course of nature.
+héliogabalisme?_ The thing, in truth, is in the course of nature.
 The Spaniards who were outraged by the Palmerism of Torquemada did
 not become members of the Church of England; they became atheists.
 The American colonists, in revolt against a bad king, did not set up
@@ -585,10 +616,10 @@ instance, to know whether Miss Lowell is writing Mr. Bynner's verse, or
 whether he is writing hers." Moreover, this monotony keeps to a very
 low level. There is no poet in the movement who has produced anything
 even remotely approaching the fine lyrics of Miss Reese, Miss Teasdale
-and John McClure, and for all its war upon the _clichÃ©_ it can show
-nothing to equal the _clichÃ©-free_ beauty of Robert Loveman's "Rain
+and John McClure, and for all its war upon the _cliché_ it can show
+nothing to equal the _cliché-free_ beauty of Robert Loveman's "Rain
 Song." In the drama the Village has gone further. In Eugene O'Neill,
-Rita Wellman and ZoÃ« Akins it offers dramatists who are obviously many
+Rita Wellman and Zoë Akins it offers dramatists who are obviously many
 cuts above the well-professored mechanicians who pour out of Prof. Dr.
 Baker's _Ibsenfabrik_ at Cambridge. But here we must probably give
 the credit, not to any influence residing within the movement itself,
@@ -652,7 +683,7 @@ Porter and Gene Stratton-Porter, and the mechanical sentimentalities
 in prose and verse that fill the cheap fiction magazines--this stuff
 has a native quality that is as unmistakable as that of Mother's Day,
 Billy-Sundayism or the Junior Order of United American Mechanics. It
-is the natural outpouring of a naÃ¯ve and yet half barbarous people,
+is the natural outpouring of a naïve and yet half barbarous people,
 full of delight in a few childish and inaccurate ideas. But it would
 be a grave error to assume that the whole of the literature of the
 middle layer is of the same infantile quality. On the contrary, a
@@ -737,7 +768,7 @@ customers. I quote from the reply:
     There are some conspicuous word merchants who deal in the
     English language, but the general public doesn't clamor
     for their wares. They write for the "thinking class."
-    The Ã©lite, the discriminating. As a rule, they scorn the
+    The élite, the discriminating. As a rule, they scorn the
     crass commercialism of the magazines and movies and such
     catch-penny devices. However, literary masterpieces live
     because they have been and will be read, not by the few, but
@@ -871,7 +902,7 @@ unmistakable air of foreignness--for example, Frank Norris' "Vandover
 and the Brute," Hergesheimer's "The Lay Anthony" and Miss Cather's
 "My Antonia," or, to drop to short stories, Stephen Crane's "The Blue
 Hotel" and Mrs. Wharton's "Ethan Frome." The short story is commonly
-regarded, at least by American critics, as a preÃ«minently American
+regarded, at least by American critics, as a preëminently American
 form; there are even patriots who argue that Bret Harte invented it.
 It meets very accurately, in fact, certain characteristic demands of
 the American temperament: it is simple, economical and brilliantly
@@ -884,11 +915,11 @@ human character; his people are unanimously marionettes; he makes
 Mexican brigands, Texas cowmen and New York cracksmen talk the same
 highly ornate Broadwayese. The successive volumes of Edward J.
 O'Brien's "Best Short-Story" series throw a vivid light upon the
-feeble estate of the art in the land. O'Brien, though his Ã¦sthetic
+feeble estate of the art in the land. O'Brien, though his æsthetic
 judgments are ludicrous, at least selects stories that are thoroughly
 representative; his books are trade successes because the crowd is
 undoubtedly with him. He has yet to discover a single story that even
-the most naÃ¯ve professor would venture to mention in the same breath
+the most naïve professor would venture to mention in the same breath
 with Joseph Conrad's "Heart of Darkness," or Andrieff's "Silence," or
 Sudermann's "Das Sterbelied," or the least considerable tale by Anatole
 France. In many of the current American makers of magazine short
@@ -918,7 +949,7 @@ French ideas. Bancroft studied in Germany; Prescott, like Irving,
 was enchanted by Spain. Poe, unable to follow the fashion, invented
 mythical travels to save his face--to France, to Germany, to the Greek
 isles. The Civil War revived the national consciousness enormously,
-but it did not halt the movement of _Ã©migrÃ©s._ Henry James, in the
+but it did not halt the movement of _émigrés._ Henry James, in the
 seventies, went to England, Bierce and Bret Harte followed him, and
 even Mark Twain, absolutely American though he was, was forever pulling
 up stakes and setting out for Vienna, Florence or London. Only poverty
@@ -944,7 +975,7 @@ literatus is perceptibly foreign in his mien. If he lies under the
 New England tradition he is furiously colonial--more English than the
 English. If he turns to revolt, he is apt to put on a French hat and a
 Russion red blouse. _The Little Review,_ the organ of the extreme wing
-of _rÃ©voltÃ©s,_ is so violently exotic that several years ago, during
+of _révoltés,_ is so violently exotic that several years ago, during
 the plupatriotic days of the war, some of its readers protested. With
 characteristic lack of humor it replied with an American number--and
 two of the stars of that number bore the fine old Anglo-Saxon names of
@@ -1038,7 +1069,7 @@ him from his inferiors. Finally, it is not to be forgotten that,
 without this rebellion of immigrant iconoclasts, the whole body of the
 national literature would tend to sink to the 100% American level of
 such patriotic literary business men as the president of the Authors'
-League. In other words, we must put up with the Ã¦sthetic Bolshevism of
+League. In other words, we must put up with the æsthetic Bolshevism of
 the Europeans and Asiatics who rage in the land, for without them we
 might not have any literature at all.
 
@@ -1064,7 +1095,7 @@ partisan of Viennese farce or of the French moral code or of English
 literary theory--this news, among a people so ill-informed, so horribly
 well-trained in flight from bugaboos, and so savagely suspicious of
 the unfamiliar in ideas, has the inevitable effect of stirring up
-opposition that quickly ceases to be purely Ã¦sthetic objection, and
+opposition that quickly ceases to be purely æsthetic objection, and
 so becomes increasingly difficult to combat. If Dreiser's name were
 Tompkins or Simpson, there is no doubt whatever that he would affright
 the professors a good deal less, and appear less of a hobgoblin to
@@ -1072,7 +1103,7 @@ the _intelligentsia_ of the women's clubs. If Oppenheim were less
 palpably levantine, he would come much nearer to the popularity of
 Edwin Markham and Walt Mason. And if Cabell kept to the patriotic
 business of a Southern gentleman, to wit, the praise of General Robert
-E. Lee, instead of prowling the strange and terrible fields of mediÃ¦val
+E. Lee, instead of prowling the strange and terrible fields of mediæval
 Provence, it is a safe wager that he would be sold openly over the
 counter instead of stealthily behind the door.
 
@@ -1085,7 +1116,7 @@ their dignity and were thus suspect and without virtue. By this gauge
 Chambers became the superior of Dreiser and Cabell, and Joyce Kilmer
 and Amy Lowell were set above Sandburg and Oppenheim. The test was
 even extended to foreigners: by it H. G. Wells took precedence of
-Shaw, and Blasco IbÃ¡Ã±ez became a greater artist than Romain Rolland.
+Shaw, and Blasco Ibáñez became a greater artist than Romain Rolland.
 But the thing is not peculiar to war times; when peace is densest it
 is to be observed. The man of letters, pure and simple, is a rarity
 in America. Almost always he is something else--and that something
@@ -1136,7 +1167,7 @@ the hunkerous indifference of the dominant mob but also the bitter
 and disingenuous opposition of the classes to which he might look
 reasonably for understanding and support, the American author is forced
 into a sort of social and intellectual vacuum, and lives out his days,
-as Henry James said of Hawthorne, "an alien everywhere, an Ã¦sthetic
+as Henry James said of Hawthorne, "an alien everywhere, an æsthetic
 solitary."
 
 The wonder is that, in the face of so metallic and unyielding a front,
@@ -1274,7 +1305,7 @@ contemporary American writer took any part in furthering the project,
 and that the only one who attended the final ceremony was Whitman.
 
 It was Baudelaire's French translation of the prose tales and
-MallarmÃ©'s translation of the poems that brought Poe to Valhalla. The
+Mallarmé's translation of the poems that brought Poe to Valhalla. The
 former, first printed in 1856, founded the Poe cult in France, and
 during the two decades following it flourished amazingly, and gradually
 extended to England and Germany. It was one of the well-springs, in
@@ -1286,7 +1317,7 @@ ideas, sought its springs in those deep feelings and inner experiences
 which lie beyond the range of ideas and are to be interpreted only
 as intuitions. Emerson started upon the same quest, but was turned
 off into mazes of contradiction and unintelligibility by his ethical
-obsession--the unescapable burden of his Puritan heritage. But Poe
+obsession?--the unescapable burden of his Puritan heritage. But Poe
 never wandered from the path. You will find in "The Poetic Principle"
 what is perhaps the clearest statement of this new and sounder concept
 of beauty that has ever been made--certainly it is clearer than any
@@ -1390,7 +1421,7 @@ kings. Part of this misconception, I suppose, has its roots in the
 gaudy imbecilities of the yellow press, but there is also a part that
 belongs to the general American tradition, along with the oppression of
 minorities and the belief in political panaceas. Its depth and extent
-are constantly revealed by the naÃ¯ve assumption that the so-called
+are constantly revealed by the naïve assumption that the so-called
 fashionable folk of the large cities--chiefly wealthy industrials in
 the interior-decorator and country-club stage of culture--constitute an
 aristocracy, and by the scarcely less remarkable assumption that the
@@ -1508,7 +1539,7 @@ more than an elaborate hocus-pocus--respectable Unitarians shocking the
 peasantry and scaring the horned cattle in the fields by masquerading
 in the robes of Rosicrucians. The ideas that it embraced in those
 austere and far-off days were stale, and when it had finished with them
-they were dead: to-day one hears of Jakob BÃ¶hme almost as rarely as one
+they were dead: to-day one hears of Jakob Böhme almost as rarely as one
 hears of Allen G. Thurman. So in politics. Its glory is Abolition--an
 English invention, long under the interdict of the native plutocracy.
 Since the Civil War its six states have produced fewer political ideas,
@@ -1547,7 +1578,7 @@ the united powers of Europe. They were hunted out of their sweat-shops
 and coffee-houses as if they were so many Carranzas or Ludendorffs,
 dragged to jail to the tooting of horns, arraigned before quaking
 judges on unintelligible charges, condemned to deportation without the
-slightest chance to defend themselves, torn from their dependent
+slightest chance to defend them: selves, torn from their dependent
 families, herded into prison-ships, and then finally dumped in a snow
 waste, to be rescued and fed by the Bolsheviki. And what was the
 theory at the bottom of all these astounding proceedings? So far as
@@ -1671,7 +1702,7 @@ _Under the Campus Pump_
 
 
 But there remain the _intelligentsia,_ the free spirits in the middle
-ground, neither as anÃ¦sthetic to ideas as the plutocracy on the one
+ground, neither as anæsthetic to ideas as the plutocracy on the one
 hand nor as much the slaves of emotion as the proletariat on the other.
 Have I forgotten them? I have not. But what actually reveals itself
 when this small brotherhood of the superior is carefully examined?
@@ -1781,7 +1812,7 @@ belongs to the authentic aristocrat. They constituted themselves,
 not a restraining influence upon the mob run wild, but the loudest
 spokesmen of its worst imbecilities. They fed it with bogus history,
 bogus philosophy, bogus idealism, bogus heroics. They manufactured
-blather for its entertainment. They showed themselves to be as naÃ¯ve
+blather for its entertainment. They showed themselves to be as naïve
 as so many Liberty Loan orators, as emotional, almost, as the spy
 hunters, and as disdainful of the ordinary intellectual decencies
 as the editorial writers. I accumulated, in those great days, for
@@ -2010,7 +2041,7 @@ nation: France, Germany or England. But you will not find it in the
 so-called culture of America. Here the decadent Anglo-Saxon majority
 still looks obediently and a bit wistfully toward the motherland.
 No good American ever seriously questions an English judgment on an
-Ã¦sthetic question, or even on an ethical, philosophical or political
+æsthetic question, or even on an ethical, philosophical or political
 question. There is, in fact, seldom any rational reason why he should:
 it is almost always more mature, more tolerant, more intelligent than
 any judgment hatched at home. Behind it lies a settled scheme of
@@ -2324,7 +2355,7 @@ hypocritical when it was not insane. His instincts were profoundly
 against a new loosing of democratic fustian upon the world; he believed
 in strongly centralized states, founded upon power and devoted to
 enterprises far transcending mere internal government; he was an
-imperialist of the type of Cecil Rhodes, Treitschke and DelcassÃ©. But
+imperialist of the type of Cecil Rhodes, Treitschke and Delcassé. But
 the fortunes of domestic politics jockeyed him into the position of
 standing as the spokesman of an almost exactly contrary philosophy. The
 visible enemy before him was Wilson. What he wanted as a politician
@@ -2337,7 +2368,7 @@ whose tune changed at every swing. Here was an opponent that more than
 once puzzled Roosevelt, and in the end flatly dismayed him. Here was a
 mob-master with a technique infinitely more subtle and effective than
 his own. So lured into an unequal combat, the Rough Rider got bogged in
-absurdities so immense that only the democratic anÃ¦sthesia to absurdity
+absurdities so immense that only the democratic anæsthesia to absurdity
 saved him. To make any progress at all he was forced into fighting
 against his own side. He passed from the scene bawling piteously for a
 cause that, at bottom, it is impossible to imagine him believing in,
@@ -2387,7 +2418,7 @@ not go with the Junkers all the way, he could at least go the whole
 length of their distrust of the third order--the undifferentiated
 masses of men below. Here, I daresay, he owed a lot to Nietzsche. He
 was always reading German books, and among them, no doubt, were "Also
-sprach Zarathustra" and "Jenseits von Gut und BÃ¶se." In fact, the
+sprach Zarathustra" and "Jenseits von Gut und Böse." In fact, the
 echoes were constantly sounding in his own harangues. Years ago, as an
 intellectual exercise while confined to hospital, I devised and printed
 a give-away of the Rooseveltian philosophy in parallel columns--in one
@@ -2703,7 +2734,7 @@ other witnesses, but those of a comedian sure of his crowd. He was, in
 his dealings with concrete men as in his dealings with men in the mass,
 a charlatan of the very highest skill--and there was in him, it goes
 without saying, the persuasive charm of the charlatan as well as the
-daring deviousness, the humanness of naÃ¯vetÃ© as well as the humanness
+daring deviousness, the humanness of naïveté as well as the humanness
 of chicane. He knew how to woo--and not only boobs. He was, for all his
 ruses and ambuscades, a jolly fellow.
 
@@ -2731,7 +2762,7 @@ heretics--to the end of his days. In the face of what he conceived to
 be contumacy to revelation his fury took on a sort of lyrical grandeur.
 There was nothing too awful for the culprit in the dock. Upon his head
 were poured denunciations as violent as the wildest interdicts of a
-mediÃ¦val pope.
+mediæval pope.
 
 The appearance of such men, of course, is inevitable under a democracy.
 Consummate showmen, they arrest the wonder of the mob, and so put
@@ -2767,8 +2798,8 @@ the British press bureau. But in a few months he found himself once
 more attempting to lead a mob that was fast slipping away. Wilson, a
 very much shrewder politician, with little of Roosevelt's weakness for
 succumbing to his own rhetoric, discerned the truth much more quickly
-and clearly. In 1916 he made his campaign for reÃ«lection on a flatly
-anti-Roosevelt peace issue, and not only got himself reÃ«lected, but
+and clearly. In 1916 he made his campaign for reëlection on a flatly
+anti-Roosevelt peace issue, and not only got himself reëlected, but
 also drove Roosevelt out of the ring.
 
 What happened thereafter deserves a great deal more careful study than
@@ -2988,7 +3019,7 @@ at, or a single workshop devoted to the making of beautiful things.
 Once you have counted Robert Loveman (an Ohioan by birth) and John
 McClure (an Oklahoman) you will not find a single southern poet above
 the rank of a neighborhood rhymester. Once you have counted James
-Branch Cabell (a lingering survivor of the _ancien rÃ©gime:_ a scarlet
+Branch Cabell (a lingering survivor of the _ancien régime:_ a scarlet
 dragonfly imbedded in opaque amber) you will not find a single southern
 prose writer who can actually write. And once you have--but when you
 come to critics, musical composers, painters, sculptors, architects
@@ -3026,11 +3057,11 @@ the old aristocracy, a bit wistful and infinitely charming. But it has
 lost all its old leadership to fabulous monsters from the lower depths;
 it is submerged in an industrial plutocracy that is ignorant and
 ignominious. The mind of the state, as it is revealed to the nation,
-is pathetically naÃ¯ve and inconsequential. It no longer reacts with
+is pathetically naïve and inconsequential. It no longer reacts with
 energy and elasticity to great problems. It has fallen to the bombastic
 trivialities of the camp-meeting and the chautauqua. Its foremost
 exponent--if so flabby a thing may be said to have an exponent--is a
-stateman whose name is synonymous with empty words, broken pledges and
+stateman whose name is synonymous with, empty words, broken pledges and
 false pretenses. One could no more imagine a Lee or a Washington in the
 Virginia of to-day than one could imagine a Huxley in Nicaragua.
 
@@ -3093,7 +3124,7 @@ one talks of such things. No one seems to be interested in such things.
 
 As for the cause of this unanimous torpor and doltishness, this
 curious and almost pathological estrangement from everything that
-makes for a civilized culture, I have hinted at it already, and now
+makes for a civilized jculture, I have hinted at it already, and now
 state it again. The south has simply been drained of all its best
 blood. The vast blood-letting of the Civil War half exterminated and
 wholly paralyzed the old aristocracy, and so left the land to the
@@ -3116,7 +3147,7 @@ superior. But in the south he throws up his hands. It is impossible for
 him to stoop to the common level. He cannot brawl in politics with the
 grandsons of his grand-father's tenants. He is unable to share their
 fierce jealousy of the emerging black--the cornerstone of all their
-public thinking. He is anÃ¦sthetic to their theological and political
+public thinking. He is anæsthetic to their theological and political
 enthusiasms. He finds himself an alien at their feasts of soul. And
 so he withdraws into his tower, and is heard of no more. Cabell is
 almost a perfect example. His eyes, for years, were turned toward
@@ -3161,7 +3192,7 @@ far more obvious than any of these others. It not only makes itself
 visible in physical stigmata--e. g., leanness and dark coloring--but
 also in mental traits. For example, the religious thought of the south
 is almost precisely identical with the religious thought of Wales.
-There is the same naÃ¯ve belief in an anthropomorphic Creator but little
+There is the same naïve belief in an anthropomorphic Creator but little
 removed, in manner and desire, from an evangelical bishop; there is
 the same submission to an ignorant and impudent sacerdotal tyranny,
 and there is the same sharp contrast between doctrinal orthodoxy and
@@ -3231,7 +3262,7 @@ stocks of other countries. It is a commonplace that nearly all negroes
 who rise above the general are of mixed blood, usually with the white
 predominating. I know a great many negroes, and it would be hard for
 me to think of an exception. What is too often forgotten is that this
-white blood is not the blood of the poor whites but that of the old
+white bloody is not the Mood of the poor whites but that of the old
 gentry. The mulatto girls of the early days despised the poor whites
 as creatures distinctly inferior to negroes, and it was thus almost
 unheard of for such a girl to enter into relations with a man of that
@@ -3243,7 +3274,7 @@ pure-blooded descendant of the old poor whites, and he not infrequently
 demonstrates it. It is not by accident that the negroes of the south
 are making faster progress, economically and culturally, than the
 masses of the whites. It is not by accident that the only visible
-Ã¦sthetic activity in the south is wholly in their hands. No southern
+æsthetic activity in the south is wholly in their hands. No southern
 composer has ever written music so good as that of half a dozen
 white-black composers who might be named. Even in politics, the negro
 reveals a curious superiority. Despite the fact that the race question
@@ -3377,7 +3408,7 @@ to dispose of a problem all that is necessary is to deny that it
 exists. But there are plenty of men, I believe, who find themselves
 unable to resolve the difficulty in any such cavalier manner--men whose
 chief burden and distinction, in fact, is that they do not employ
-formulÃ¦ in their thinking, but are thrown constantly upon industry,
+formulæ in their thinking, but are thrown constantly upon industry,
 ingenuity and the favor of God. Among such men there remains a good
 deal more belief in what is vaguely called inspiration. They know
 by hard experience that there are days when their ideas flow freely
@@ -3598,8 +3629,8 @@ physically and mentally up to par.
 
 I do not advance it as a formal corollary, but no doubt this stenosis
 hypothesis also throws some light upon two other immemorial mysteries,
-the first being the relative Ã¦sthetic sterility of women, and the other
-being the low Ã¦sthetic development of certain whole classes, and even
+the first being the relative æsthetic sterility of women, and the other
+being the low æsthetic development of certain whole classes, and even
 races of men, _e. g._, the Puritans, the Welsh and the Confederate
 Americans. That women suffer from stenosis far more than men is a
 commonplace of internal medicine; the weakness is chiefly to blame,
@@ -3629,7 +3660,7 @@ contrary evidence of the Bulgarians. Among them, I suppose, stenosis
 must be unknown--but so are all the fine arts.
 
 "La force et la foiblesse de l'esprit," said Rochefoucauld, "sont
-mal nommÃ©es; elles ne sont, en effect, que la bonne ou la mauvaise
+mal nommées; elles ne sont, en effect, que la bonne ou la mauvaise
 des organes du corps." Science wastes itself hunting in the other
 direction. We are flooded with evidences of the effects of the mind
 on the body, and so our attention is diverted from the enormously
@@ -3640,7 +3671,7 @@ great diagnostic device was the discovery that thousands of cases of
 so-called mental disease were really purely physical in origin--that
 thousands of patients long supposed to have been crazed by seeing
 ghosts, by love, by grief, or by reverses in the stock-market were
-actually victims of the small but extremely enterprising _spirochÃ¦te
+actually victims of the small but extremely enterprising _spirochæte
 pallida._ The news heaved a bomb into psychiatry, but it has so far
 failed to provoke a study of the effects of other such physical
 agents. Even the effects of this one agent remain to be inquired into
@@ -3684,7 +3715,7 @@ the athletes we hear so much about were mainly slaves. Not one of
 the eminent philosophers, poets or statesmen of Greece was a good
 high-jumper. Nearly all of them, in fact, suffered from the same
 malaises which afflict their successors of to-day, as you will quickly
-discern by examining their compositions. The Ã¦sthetic impulse, like the
+discern by examining their compositions. The æsthetic impulse, like the
 thirst for truth, might almost be called a disease. It seldom if ever
 appears in a perfectly healthy man.
 
@@ -3874,13 +3905,13 @@ the more innocuous of the two. At the very start, indeed, she set
 up barriers against gratitude, for her decision to ask a favor of me
 was, in a subtle sense, a judgment of my inferiority. One does not ask
 favors, if it can be avoided, of persons one genuinely respects; one
-puts such burdens upon the naÃ¯ve and colorless, upon what are called
+puts such burdens upon the naïve and colorless, upon what are called
 the good natured; in brief, upon one's inferiors. When that girl first
 thought of me as a possible aid to her literary aspiration she thought
 of me (perhaps vaguely, but none the less certainly) as an inferior
 fortuitously outfitted with a body of puerile technical information
 and competence, of probable use to her. This unfavorable view was
-immediately reÃ«nforced by her discovery of my vanity.
+immediately reënforced by her discovery of my vanity.
 
 In brief, she showed and still shows the great instinctive sapience of
 her sex. She is female, and hence far above the nonsensical delusions,
@@ -3988,7 +4019,7 @@ the alkalinity necessary to its normal functioning--and in the absence
 of any proofs or even arguments to the contrary I accepted his notion
 forthwith and have held to it ever since. I thus think of death as
 a sort of deleterious fermentation, like that which goes on in a
-bottle of ChÃ¢teau Margaux when it becomes corked. Life is a struggle,
+bottle of Château Margaux when it becomes corked. Life is a struggle,
 not against sin, not against the Money Power, not against malicious
 animal magnetism, but against hydrogen ions. The healthy man is one
 in whom those ions, as they are dissociated by cellular activity, are
@@ -4033,7 +4064,7 @@ and to monumental inscriptions. His authorities range from St. John
 on what is to happen at the Day of Judgment to Sir William Osier on
 what happens upon the normal human death-bed, and from Socrates on the
 relation of death to philosophy to Havelock Ellis on the effects of
-Christian ideas of death upon the mediÃ¦val temperament. The one field
+Christian ideas of death upon the mediæval temperament. The one field
 that Dr. Weber has overlooked is that of music, a somewhat serious
 omission. It is hard to think of a great composer who never wrote a
 funeral march, or a requiem, or at least a sad song to some departed
@@ -4064,7 +4095,7 @@ Bayreuth baritone seven feet in height and a German soprano weighing at
 least three hundred pounds.
 
 But if Dr. Weber thus neglects music, he at least gives full measure
-in all other departments. His book, in fact, is encyclopÃ¦dic; he
+in all other departments. His book, in fact, is encyclopædic; he
 almost exhausts the subject. One idea, however, I do not find in it:
 the conception of death as the last and worst of all the practical
 jokes played upon poor mortals by the gods. That idea apparently
@@ -4098,7 +4129,7 @@ perhaps even whole organs, which wonder what it is all about when they
 find that they are on the way to the crematory. Burn a man's mortal
 remains, and you inevitably burn a good portion of him alive, and no
 doubt that portion sends alarmed messages to the unconscious brain,
-like dissected tissue under anÃ¦sthesia, and the resultant shock brings
+like dissected tissue under anæsthesia, and the resultant shock brings
 the deceased before the hierarchy of heaven in a state of collapse,
 with his face white, sweat bespangling his forehead and a great thirst
 upon him. It would not be pulling the nose of reason to argue that many
@@ -4111,8 +4142,8 @@ idiotic; it is also indecently unjust.
 But here I become medico-legal. What I had in mind when I began was
 this: that the human tendency to make death dramatic and heroic has
 little excuse in the facts. No doubt you remember the scene in the
-last act of "Hedda Gabler," in which Dr. Brack comes in with the
-news of LÃ¶vborg's suicide. Hedda immediately thinks of him putting
+last act of "Hedda Gabier," in which Dr. Brack comes in with the
+news of Lövborg's suicide. Hedda immediately thinks of him putting
 the pistol to his temple and dying instantly and magnificently. The
 picture fills her with romantic delight. When Brack tells her that the
 shot was actually through the breast she is disappointed, but soon
@@ -4125,7 +4156,7 @@ play, made the sentence: "No--it struck him in the abdomen." In the
 last edition William Archer makes it "No--in the bowels!" Abdomen is
 nearer to _underlivet_ than bowels, but belly would probably render the
 meaning better than either. What Brack wants to convey to Hedda is the
-news that LÃ¶vborg's death was not romantic in the least--that he went
+news that Lövborg's death was not romantic in the least--that he went
 to a brothel, shot himself, not through the cerebrum or the heart, but
 through the duodenum or perhaps the jejunum, and is at the moment of
 report awaiting autopsy at the Christiania _Allgemeine-krankenhaus._
@@ -4161,7 +4192,7 @@ convinced that, if he died at all, it would be at the climax of some
 heroic charge, up to his knees in blood and with his bayonet run clear
 through a Bavarian at least four feet in diameter. He imagined the
 clean bullet through the heart, the stately last gesture, the final
-words: "ThÃ©rÃ¨se! Sophie! Olympe! Marie! Suzette! Odette! Denise!
+words: "Thérèse! Sophie! Olympe! Marie! Suzette! Odette! Denise!
 Julie!... France!" Go to the book and see what he got.... Dr. Crile,
 whose experience of war has soured him against it, argues that the best
 way to abolish it would be to prohibit such romantic prints as "The
@@ -4330,7 +4361,7 @@ the first-rate musicians who have triumphed in the opera house have
 been skillful mountebanks as well. I need cite only Richard Wagner and
 Richard Strauss. The business, indeed, has almost nothing to do with
 music. All the actual music one finds in many a popular opera--for
-example, "ThaÃ¯s"--mounts up to less than one may find in a pair of
+example, "Thaïs"--mounts up to less than one may find in a pair of
 Gung'l waltzes. It is not this mild flavor of tone that fetches the
 crowd; it is the tinpot show that goes with it. An opera may have
 plenty of good music in it and fail, but if it has a good enough show
@@ -4414,7 +4445,7 @@ out of this chaos new laws will inevitably arise, and though they
 will not be as rigid as the old ones, they will still be coherent and
 logical and intelligible. Already, in fact, gentlemen of professorial
 mind are mapping them out; one needs but a glance at such a book as
-RenÃ© Lenormand's to see that there is a certain order hidden in even
+René Lenormand's to see that there is a certain order hidden in even
 the wildest vagaries of the moment. And when the boiling in the pot
 dies down, the truly great musicians will be found to be, not those
 who have been most daring, but those who have been most discreet and
@@ -4461,7 +4492,7 @@ not like a college-yell or an explosion in a munitions plant, but
 like the rustle of the trees, the murmur of the illimitable sea, the
 sweet gurgle of a pretty girl. The jazz-band fetches only vulgarians,
 barbarians, idiots, pigs. But there is a mystical something in "Weiner
-Blut" or "KÃ¼nstler Leben" that fetches even philosophers.
+Blut" or "Künstler Leben" that fetches even philosophers.
 
 The waltz, in fact, is magnificently improper--the art of tone turned
 bawdy. I venture to say that the compositions of one man alone,
@@ -4477,7 +4508,7 @@ Maeterlinck, and is going to Cleveland, O., on business to-morrow....
 
 I often wonder that the Comstocks have not undertaken a crusade against
 the waltz. If they suppress "The 'Genius'" and "Jurgen," then why do
-they overlook "Rosen aus dem SÃ¼den"? If they are so hot against "Madame
+they overlook "Rosen aus dem Süden"? If they are so hot against "Madame
 Bovary" and the Decameron, then why the immunity of "Wein, Weib und
 Gesang"? I throw out the suggestion and pass on. Nearly all the
 great waltzes of the world, incidently, were written by Germans--or
@@ -4485,7 +4516,7 @@ Austrians. A waltz-pogrom would thus enlist the American Legion and
 the Daughters of the Revolution. Moreover, there is the Public Health
 Service: it is already engaged upon a campaign to enforce virginity in
 both sexes by statute and artillery. Imagine such an enterprise with
-every band free to play "Wiener MÃ¤d'l"!
+every band free to play "Wiener Mäd'l"!
 
 
 
@@ -4536,7 +4567,7 @@ been a designer of candy-box tops. The notion that he is a great artist
 is one of the astounding delusions of Anglo-Saxondom. What keeps it
 going is the patent fact that he is a very dexterous craftsman--one
 who understands thoroughly how to paint, just as a good plumber knows
-how to plumb. But of genuine Ã¦sthetic feeling the man is almost as
+how to plumb. But of genuine æsthetic feeling the man is almost as
 destitute as the plumber. His portrait of the four Johns Hopkins
 professors is probably the worst botch ever palmed off on a helpless
 committee of intellectual hay and feed dealers. But Nordfeldt, in his
@@ -4604,7 +4635,7 @@ It is commonly urged in defense of certain actors that they are forced
 to appear in that sort of stuff by the public demand for it--that
 appearing in it painfully violates their secret pruderies. This defense
 is unsound and dishonest. An actor never disdains anything that gets
-him applause and money; he is almost completely devoid of that Ã¦sthetic
+him applause and money; he is almost completely devoid of that æsthetic
 conscience which is the chief mark of the genuine artist. If there
 were a large public willing to pay handsomely to hear him recite
 limericks, or to blow a cornet, or to strip off his underwear and
@@ -4624,7 +4655,7 @@ VIII. THE CULT OF HOPE
 
 Of all the sentimental errors which reign and rage in this incomparable
 republic, the worst, I often suspect, is that which confuses the
-function of criticism, whether Ã¦sthetic, political or social, with the
+function of criticism, whether æsthetic, political or social, with the
 function of reform. Almost invariably it takes the form of a protest:
 "The fellow condems without offering anything better. Why tear down
 without building up?" So coo and snivel the sweet ones: so wags the
@@ -4838,7 +4869,7 @@ make a thousand more votes for Prohibition. It is precisely that sort
 of entertainment that makes Prohibition popular with the boobery. It
 is precisely because it is unjust, imbecile, arbitrary and tyrannical
 that they are so hot for it. The incidental violation of even the
-inferior man's liberty is not sufficient to empty him of delight in
+inferior mans liberty is not sufficient to empty him of delight in
 the chase. The victims reported in the newspapers are commonly his
 superiors; he thus gets the immemorial democratic satisfaction out of
 their discomfiture. Besides, he has no great rage for liberty himself.
@@ -4906,7 +4937,7 @@ have come in now and then to buy gold bricks or to hear the current
 Henry Ward Beechers, but these oldsters were mere trippers--they never
 thought of settling down--the very notion of it would have appalled
 them. The actual settlers were all young, and what brought them on was
-less an economic impulse than an Ã¦sthetic one. They wanted to live
+less an economic impulse than an æsthetic one. They wanted to live
 magnificently, to taste the sweets that drummers talked of, to sample
 the refined divertisements described in such works as "The Confessions
 of an Actress," "Night Life in Chicago" and "What Every Young Husband
@@ -5118,7 +5149,7 @@ eye that is both opaque and out of focus. Thus he begins the familiar
 process of editing and improving his girl. Features and characteristics
 that, observed in cold blood, might have quickly aroused his most
 active disgust are now seen through a rose-tinted fog, like drabs in a
-musical comedy. The lover ends by being almost anÃ¦sthetic to disgust.
+musical comedy. The lover ends by being almost anæsthetic to disgust.
 While the spell lasts his lady could shave her head or take to rubbing
 snuff, or scratch her leg at a communion service, or smear her hair
 with bear's grease, and yet not disgust him. Here the paralysis of the
@@ -5257,7 +5288,7 @@ shades of scarlet, crimson and vermilion. A man with eyes in his head
 admires them for themselves; he doesn't have to be first convinced that
 they are non-existent, that what he sees is not the mark of a lip-stick
 at all, but an authentic lip. So with the eyes. Nothing could be more
-charming than an eye properly reÃ«nforced; the naked organ is not to be
+charming than an eye properly reënforced; the naked organ is not to be
 compared to it; nature is an idiot when it comes to shadows. But it
 must be admired as a work of art, not as a miraculous and incredible
 eye. ... Women, in this important and venerable art, stick too closely
@@ -5296,8 +5327,8 @@ too warm. But not a wife. I here speak by the book. Both Nietzsche and
 Chopin had plenty of mistresses, but neither was ever able to get a
 wife.
 
-Shakespeare and Ann Hathaway, Wagner and Minna Planer, MoliÃ¨re and
-Armande BÃ©jart--one might multiply instances almost endlessly. Minna,
+Shakespeare and Ann Hathaway, Wagner and Minna Planer, Molière and
+Armande Béjart--one might multiply instances almost endlessly. Minna,
 at least in theory, knew something of music; she was thus what romance
 regards as an ideal wife for Wagner. But instead of helping him to
 manufacture his incomparable masterpieces, she was for twenty-five
@@ -5305,7 +5336,7 @@ years the chief impediment to their manufacture. "Lohengrin" gave her
 the horrors; she begged Richard to give up his lunacies and return
 to the composition of respectable cornet music. In the end he had to
 get rid of her in sheer self-defense. Once free, with nothing worse
-on his hands than the illicit affection of Cosima Liszt von BÃ¼low,
+on his hands than the illicit affection of Cosima Liszt von Bülow,
 he produced music drama after music drama in rapid succession. Then,
 married to Cosima, he descended to the anticlimax of "Parsifal," a
 truly tragic mixture of the stupendous and the banal, of work of genius
@@ -5340,7 +5371,7 @@ that his women-folk remember. The typical domestic situation shows
 a woman trying to induce a man to do something that he doesn't want
 to do, or to refrain from something that he does want to do. This
 is true in his bachelor days, when his mother or his sister is his
-antagonist. It is preÃ«minently true just before his marriage, when
+antagonist. It is preëminently true just before his marriage, when
 the girl who has marked him down is hard at the colossal job of
 overcoming his reluctance. And after marriage it is so true that there
 is hardly need to state it. One of the things every man discovers to
@@ -5473,7 +5504,7 @@ trouble--that here is one not likely to grow mushy and make a mess. The
 average man does not marry because some marble fair one challenges his
 enterprise. He marries because chance throws into his way a fair one
 who repels him less actively than most, and because his delight in what
-he thus calls her charm is reÃ«nforced by a growing suspicion that she
+he thus calls her charm is reënforced by a growing suspicion that she
 has fallen in love with him. In brief, it is chivalry that undoes him.
 The girl who infallibly gets a husband--in fact, _any_ husband that she
 wants--is the one who tracks him boldly, fastens him with sad eyes, and
@@ -5512,7 +5543,7 @@ purple that it will deceive! Alas, what folly!
 
     Abbott, Lawrence
     Abbott, Lyman
-    Akins, ZoÃ«
+    Akins, Zoë
     Alcott, A. B.
     Allen, James Lane
     _Also sprach Zarathustra_
@@ -5538,9 +5569,9 @@ purple that it will deceive! Alas, what folly!
     Benson, E. F.
     Bierce, Ambrose
     Billroth, Theodor
-    Blasco, IbÃ¡Ã±ez, V.
+    Blasco, Ibáñez, V.
     _Blue Hotel, The_
-    BÃ¶hme, Jakob
+    Böhme, Jakob
     Bonaparte, Charles J.
     _Bookman_
     Boynton, P. H.
@@ -5669,7 +5700,7 @@ purple that it will deceive! Alas, what folly!
 
     James, Henry
 
-    _Jenseits von Gut und BÃ¶se_
+    _Jenseits von Gut und Böse_
     Johns Hopkins University
     Johnson, Owen
     Johnson, Robert U.
@@ -5704,7 +5735,7 @@ purple that it will deceive! Alas, what folly!
     _McClure's_
     MacGrath, Harold
     Maeterlinck, Maurice
-    MallarmÃ©, Stephen
+    Mallarmé, Stephen
     _Man: An Adaptive Mechanism_
     Mansfield, Richard
     Marden, Orison Swett
@@ -5835,4 +5866,373 @@ purple that it will deceive! Alas, what folly!
 
     Zangwill, Israel
 
-*** END OF THE PROJECT GUTENBERG EBOOK 53467 ***
+
+
+
+
+End of Project Gutenberg's Prejudices, Second Series, by H. L. Mencken
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PREJUDICES, SECOND SERIES ***
+
+***** This file should be named 53467-8.txt or 53467-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/3/4/6/53467/
+
+Produced by Marc D'Hooghe at Free Literature (online soon
+in an extended version, also linking to free sources for
+education worldwide ... MOOC's, educational materials,...)
+Images generously made available by the Internet Archive.
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
